@@ -7,7 +7,7 @@
     </ShelfHeading>
 
 <!-- Profile card -->
-  <div class="container w-50 mt-3 p-4 shadow-lg rounded" id="card-container">
+  <div class="container-md mt-3 p-4 shadow-lg rounded" id="card-container">
     <div class="d-flex flex-row">
         <img src="https://i.imgur.com/gwmPxgs.png" class="mr-3 rounded img-fluid" id="portrait-img"/>
 <!-- https://i.pinimg.com/originals/39/26/db/3926db089d7af5fa91711db1dbb82b7c.jpg -->
